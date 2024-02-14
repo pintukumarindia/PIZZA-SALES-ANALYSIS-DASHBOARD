@@ -1,5 +1,4 @@
 # PIZZA-SALES-ANALYSIS-DASHBOARD
-SKILLS UTILIZED: SQL &amp; POWER BI
 
 Project Description: Pizza Sales Analysis Dashboard
 
